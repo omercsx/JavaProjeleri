@@ -21,3 +21,18 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Pdp_Odev1/nbproject/private/
+/Pdp_Odev1/build/
+/pdp2test/nbproject/private/
+/pdp2test/build/
+/odev2deneme/odev2/RASTGELEKISIURET/build/
+/odev2deneme/odev2/RASTGELEKISIURET/nbproject/private/
+/odev2deneme/odev2/odev2test/build/
+/odev2deneme/odev2/odev2test/nbproject/private/
+/odev2deneme/odev2/RASTGELEKISIURET/dist/
+/odev2deneme/odev2/odev2test/dist/
+/odev2/odev2test/dist/
+/NesneProje/nbproject/private/
+/NesneProje/build/
+/NesneOdevi/nbproject/private/
+/NesneOdevi/build/
